@@ -9,7 +9,7 @@
 
 ## Status (11/25/20)
 * Created the Project 4 ReadMe file and worked on the rough draft flow chart. 
-* Code has not yet been implemented. This shall be worked on around 11/27. 
+* Code has not yet been implemented. This shall be worked on around 11/26-27. 
 
 ## Contact/Team members (´• ω •`)ﾉ
 * [mcallah4@terpmail.umd.edu]  

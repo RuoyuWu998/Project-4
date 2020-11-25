@@ -5,18 +5,18 @@
 * This project will be developed using the latest version of python 3 IDEs (Jupyter & PyCharm). 
 
 ## Setup 
-To run this file, please be sure to have the latest version of Python 3 downloaded. Afterwards, download the project and execute it. 
+* To run this file, please be sure to have the latest version of Python 3 downloaded. Afterwards, download the project and execute it. 
 
 ## Status
 * 11/25/20 Created the Project 4 ReadMe file and worked on the rough draft flow chart. 
 * Code has not yet been implemented. This shall be worked on around 11/27. 
 
-## Contact/Team members
-[mcallah4@terpmail.umd.edu]  
-[jrayela@terpmail.umd.edu]
-[btamiru@terpmail.umd.edu] 
-[rwu1234@terpmail.umd.edu]
-Team GitHub link: 
+## Contact/Team members (´• ω •`)ﾉ
+* [mcallah4@terpmail.umd.edu]  
+* [jrayela@terpmail.umd.edu]
+* [btamiru@terpmail.umd.edu] 
+* [rwu1234@terpmail.umd.edu]
+* Team GitHub link: https://github.com/INST-126-Final-Project-Group-11/Project-4 
 
 
 

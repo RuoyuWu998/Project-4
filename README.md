@@ -7,8 +7,8 @@
 ## Setup 
 * To run this file, please be sure to have the latest version of Python 3 downloaded. Afterwards, download the project and execute it. 
 
-## Status
-* 11/25/20 Created the Project 4 ReadMe file and worked on the rough draft flow chart. 
+## Status (11/25/20)
+* Created the Project 4 ReadMe file and worked on the rough draft flow chart. 
 * Code has not yet been implemented. This shall be worked on around 11/27. 
 
 ## Contact/Team members (´• ω •`)ﾉ

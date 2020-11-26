@@ -13,6 +13,7 @@
 
 ## Update (11/26/20)
 * Successfully removed missing data and columns with damaged data. The team will be working with 11 out of the 22 columns from the csv file.(Leek)  
+* Data that was not missing or removed has been written to a new file called "New Life Expectancy". This will be the csv file the team works with. Code from this implementation for context will be stored inside the github. 
 
 ## Contact/Team members (´• ω •`)ﾉ
 * [mcallah4@terpmail.umd.edu]  

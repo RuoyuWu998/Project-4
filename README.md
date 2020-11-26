@@ -11,6 +11,8 @@
 * Created the Project 4 ReadMe file and worked on the rough draft flow chart. 
 * Code has not yet been implemented. This shall be worked on around 11/26-27. 
 
+## Update (11/26/20)
+* Successfully removed missing data and columns with damaged data. The team will be working with 11 out of the 22 columns from the csv file.  
 ## Contact/Team members (´• ω •`)ﾉ
 * [mcallah4@terpmail.umd.edu]  
 * [jrayela@terpmail.umd.edu]

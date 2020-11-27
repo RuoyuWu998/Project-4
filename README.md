@@ -11,10 +11,11 @@
 * Created the Project 4 ReadMe file and worked on the rough draft flow chart. 
 * Code has not yet been implemented. This shall be worked on around 11/26-27. 
 
-## Update (11/26/20)-Leek 
+## Status Update (11/26/20)-Leek 
 * Successfully removed missing data and columns with damaged data. The team will be working with 11 out of the 22 columns from the csv file. 
 * Data that was not missing or removed has been written to a new file called "New Life Expectancy". This will be the csv file the team works with. Code from this implementation for context will be stored inside the github. 
 * Uploaded original Life Expectancy csv file (without changes), New Life Expectancy csv file, and the code used to remove missing and damaged data, as well as the code used to export the original csv file (Project 4 Practice). 
+* Successfully created two scatter plots pertaining to the correlation between years and life expectancy, as well as years and adult mortality. Currently attempting to combine multiple elements into one graph for each country the team will work with. 
 
 ## Contact/Team members (´• ω •`)ﾉ
 * [mcallah4@terpmail.umd.edu]  

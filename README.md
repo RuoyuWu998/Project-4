@@ -17,6 +17,10 @@
 * Uploaded original Life Expectancy csv file (without changes), New Life Expectancy csv file, and the code used to remove missing and damaged data, as well as the code used to export the original csv file (Project 4 Practice). 
 * Successfully created two scatter plots pertaining to the correlation between years and life expectancy, as well as years and adult mortality. Currently attempting to combine multiple elements into one graph for each country the team will work with. 
 
+## Status Update(11/27/20)-Leek 
+* Successfully completed possible factor correlations in Afghanistan. Alerted the team that the data within the column "Income composition of resources" is not to be relied upon (aka can be safely ignored for our research). 
+* Will continue working towards my second country (as well as finding a way to put multiple factors into one graph) 
+
 ## Contact/Team members (´• ω •`)ﾉ
 * [mcallah4@terpmail.umd.edu]  
 * [jrayela@terpmail.umd.edu]

@@ -19,7 +19,7 @@
 
 ## Status Update(11/27/20)-Leek 
 * Successfully completed possible factor correlations in Afghanistan. Alerted the team that the data within the column "Income composition of resources" is not to be relied upon (aka can be safely ignored for our research). 
-* Will continue working towards my second country (as well as finding a way to put multiple factors into one graph) 
+* Will continue working towards my second country, Botswana (as well as finding a way to put multiple factors into one graph) 
 
 ## Contact/Team members (´• ω •`)ﾉ
 * [mcallah4@terpmail.umd.edu]  

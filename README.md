@@ -22,6 +22,9 @@
 * Will continue working towards my second country, Botswana (as well as finding a way to put multiple factors into one graph) 
 * Successfully completed my correlations for 3 countries (Afghanistan, Botswana, & Romania). Code has been pasted onto colab notebooks. 
 * Will begin working on the PowerPoint presentation. 
+## Status Update(11/30/20)-Ruoyu
+* For Afghanistan, Botswana and Romania, find the correlations between 'Year','Polio','Total expenditure','Schooling','Income composition of resources','Alcohol','Income composition of resources' and 'Life expectancy' by using linear regression.
+* Draw best fitted line for each graph to determine if there is strong correlation.
 
 ## Contact/Team members (´• ω •`)ﾉ
 * [mcallah4@terpmail.umd.edu]  
